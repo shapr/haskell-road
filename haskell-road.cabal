@@ -52,6 +52,10 @@ library
   -- cabal-fmt: expand src
   exposed-modules:
       Core
+      TAMO
+      TUOLP
+      STAL
+      DB
 
   hs-source-dirs:
       src
